@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jaimini-23/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Jaimini-23/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jaimini-23/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Jaimini-23/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jaimini-23/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Jaimini-23/Leetcode/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jaimini-23/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Jaimini-23/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
