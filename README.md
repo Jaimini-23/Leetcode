@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jaimini-23/Leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaimini-23/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaimini-23/Leetcode/tree/master/0162-find-peak-element) |
+| [0525-contiguous-array](https://github.com/Jaimini-23/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaimini-23/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Jaimini-23/Leetcode/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jaimini-23/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Jaimini-23/Leetcode/tree/master/3379-transformed-array) |
+## Hash Table
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Jaimini-23/Leetcode/tree/master/0525-contiguous-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/Jaimini-23/Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
