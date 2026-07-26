@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Jaimini-23/Leetcode/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Jaimini-23/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Jaimini-23/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Jaimini-23/Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Jaimini-23/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jaimini-23/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jaimini-23/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
