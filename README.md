@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jaimini-23/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Jaimini-23/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Jaimini-23/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Jaimini-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Jaimini-23/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Jaimini-23/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaimini-23/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jaimini-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0525-contiguous-array](https://github.com/Jaimini-23/Leetcode/tree/master/0525-contiguous-array) |
 ## Prefix Sum
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jaimini-23/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Jaimini-23/Leetcode/tree/master/0075-sort-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaimini-23/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jaimini-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
