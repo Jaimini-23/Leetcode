@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jaimini-23/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Jaimini-23/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jaimini-23/Leetcode/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaimini-23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
