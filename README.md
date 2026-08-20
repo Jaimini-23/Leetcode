@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jaimini-23/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jaimini-23/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Jaimini-23/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/Jaimini-23/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3379-transformed-array](https://github.com/Jaimini-23/Leetcode/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Jaimini-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2643-row-with-maximum-ones](https://github.com/Jaimini-23/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
