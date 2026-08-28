@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaimini-23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jaimini-23/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Jaimini-23/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Jaimini-23/Leetcode/tree/master/0069-sqrtx) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaimini-23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jaimini-23/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Jaimini-23/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Jaimini-23/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -184,5 +186,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jaimini-23/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jaimini-23/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
