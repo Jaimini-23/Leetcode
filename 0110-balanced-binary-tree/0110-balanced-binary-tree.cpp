@@ -11,18 +11,21 @@
  */
 class Solution {
 public:
-    int isBalancedBinaryTree(TreeNode* root) {
+    int maxDepth(TreeNode* root) {
         if(root == NULL) return 0;
-
-        int lh = isBalancedBinaryTree(root->left);
-        if(lh == -1) return -1;
-        int rh = isBalancedBinaryTree(root->right);
-        if(rh == -1) return -1;
-
-        if(abs(lh - rh) > 1) return -1;
+        int lh = maxDepth(root->left);
+        int rh = maxDepth(root->right);
         return 1 + max(lh,rh);
     }
     bool isBalanced(TreeNode* root) {
-        return isBalancedBinaryTree(root) != -1;
+        if(root == NULL) return true;
+        int lh = maxDepth(root->left);
+        int rh = maxDepth(root->right);
+        if(abs(lh - rh) > 1) return false;
+
+        bool left = isBalanced(root->left);
+        bool right = isBalanced(root->right);
+        if(!left || !right) return false;
+        return true;
     }
 };
