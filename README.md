@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jaimini-23/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jaimini-23/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jaimini-23/Leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaimini-23/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaimini-23/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Jaimini-23/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Jaimini-23/Leetcode/tree/master/0493-reverse-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaimini-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaimini-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaimini-23/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaimini-23/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Jaimini-23/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jaimini-23/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaimini-23/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaimini-23/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Jaimini-23/Leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Jaimini-23/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Two Pointers
 |  |
 | ------- |
