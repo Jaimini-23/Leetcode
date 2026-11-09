@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Jaimini-23/Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Jaimini-23/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Jaimini-23/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Jaimini-23/Leetcode/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/Jaimini-23/Leetcode/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jaimini-23/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jaimini-23/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Jaimini-23/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Jaimini-23/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Jaimini-23/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Jaimini-23/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Jaimini-23/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jaimini-23/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jaimini-23/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Jaimini-23/Leetcode/tree/master/0994-rotting-oranges) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jaimini-23/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaimini-23/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Jaimini-23/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/0542-01-matrix) |
 ## Linked List
 |  |
 | ------- |
