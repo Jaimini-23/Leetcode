@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jaimini-23/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jaimini-23/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Jaimini-23/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jaimini-23/Leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jaimini-23/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jaimini-23/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Jaimini-23/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Jaimini-23/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Jaimini-23/Leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -411,4 +415,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Jaimini-23/Leetcode/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
