@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jaimini-23/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Jaimini-23/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Jaimini-23/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Jaimini-23/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Jaimini-23/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Jaimini-23/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Jaimini-23/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Jaimini-23/Leetcode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Linked List
 |  |
 | ------- |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Jaimini-23/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Jaimini-23/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Jaimini-23/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Jaimini-23/Leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jaimini-23/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
